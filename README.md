@@ -5,7 +5,7 @@ Ta repozitorij vsebuje projekt, v katerem analiziram razlike med letalskima pode
 Za projekt pri predmetu uporabljamo računalniški program Mathematica.
 
 ### Načrt projekta
-1. Za pridobivanje podatkov bom uporabila Wolfram data repository.
+1. Za pridobivanje podatkov bom uporabila podatke iz interneta.
 
 
 Pripravila: *Megi Škander*
